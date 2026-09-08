@@ -1,0 +1,41 @@
+header{
+    background-color: rgb(255, 0, 0);
+    color:rgb(0, 0, 0)
+}
+#introdução{
+    display:flex;
+    flex-direction: row;
+    gap:30px;
+    padding: 30px;
+    background-color: rgba(195, 9, 223);
+    align-items: center;
+    justify-content:left;
+}
+
+#introdução img{
+    gap:50px;
+     display:flex;
+  flex-wrap:wrap;
+   flex-direction: row;
+   height:250px;
+   width: 250px;
+    padding: 30px;
+
+#card img {
+    background-color: aqua;
+   display:flex;
+}
+}
+.cards img{
+
+  height:250px;
+  width: 250px;
+  
+
+}
+.cards{
+    gap:50px;
+
+  flex-wrap:wrap;
+   flex-direction: row;
+}
