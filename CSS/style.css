@@ -55,7 +55,7 @@ header {
 
 #introdução {
     padding: 56px 24px;
-    background-color: #dbe4f8;
+    background-color: #10570d;
 }
 
 .intro-content {
@@ -101,7 +101,7 @@ header {
     align-items: flex-start;
     gap: 14px;
     padding: 42px 16px 52px;
-    background-color: #f0f2f9;
+    background-color: #ffffff;
 }
 
 #cards > .eyebrow,
@@ -119,19 +119,15 @@ header {
 }
 
 .card {
-    flex: 1 1 calc(33.333% - 14px);
-    min-width: 180px;
-    max-width: calc(33.333% - 10px);
-    padding: 0 0 12px;
-    background-color: #ffffff;
-    box-shadow: 0 4px 0 #dce0e9;
+    display:flex;
+    min-width: 200px;
+    padding: 25px;
+    width: 25%;
+    flex-direction: column;
+    background-color: #966c11ec;
+    box-shadow: 0 4px 0 #522c02;
 }
 
-.card img {
-    width: 100%;
-    height: 138px;
-    object-fit: cover;
-}
 
 .card p {
     margin: 12px 12px 0;
