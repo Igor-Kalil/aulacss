@@ -125,6 +125,12 @@ header {
     box-shadow: 0 4px 0 #522c02;
 }
 
+.card img {
+    height: 250px;
+    width: 250px;
+    
+}
+
 
 .card p {
     margin: 12px 12px 0;
