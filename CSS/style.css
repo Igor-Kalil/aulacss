@@ -1,4 +1,3 @@
-
 html {
     background: #101c22;
 }
@@ -25,7 +24,6 @@ header {
     flex-direction: column;
     margin-right: auto;
 }
-
 
 .especial h1 {
     margin: 0;
@@ -74,7 +72,7 @@ header {
     max-width: 440px;
     margin: 0 0 18px;
     font-size: clamp(42px, 6vw, 68px);
-    line-height: .88;
+    line-height: 0.88;
     letter-spacing: -2px;
 }
 
@@ -117,7 +115,7 @@ header {
 }
 
 .card {
-    display:flex;
+    display: flex;
     min-width: 200px;
     padding: 25px;
     width: 25%;
@@ -129,9 +127,7 @@ header {
 .card img {
     height: 250px;
     width: 250px;
-
 }
-
 
 .card p {
     margin: 12px 12px 0;
