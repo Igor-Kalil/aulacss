@@ -102,12 +102,12 @@ header {
     background-color: #ffffff;
 }
 
-#cards > .eyebrow,
+#cards > .cardespecial,
 #cards > h2 {
     flex-basis: 100%;
 }
 
-#cards > .eyebrow {
+#cards > .cardespecial {
     margin-bottom: 0;
 }
 
